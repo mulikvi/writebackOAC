@@ -37,10 +37,7 @@ Role-Based Control: Ensures secure and controlled data manipulation.<br>
 Oracle Analytics Cloud: Configure Go-URLs in OAC to trigger API calls.<br>
 Unix Server: Set up a Unix server with Python installed.<br>
 Oracle Database: Ensure JDBC drivers are available and accessible on the server.<br>
-Python Libraries: Install the following Python libraries:<br>
-Flask<br>
-Jaydebeapi<br>
-Jpype<br>
+Python Libraries: Install the following Python libraries:Flask,Jaydebeapi,Jpype<br>
 Secure Communication: Ensure HTTPS is configured for secure communication between OAC and the Flask application.<br>
 
 
